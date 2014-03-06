@@ -31,24 +31,18 @@ mode        : selfcontained # {standalone, draft}
 
 ## USGS SPARROW
 
-This is just some testing
+- Nutrient Load Model
+- Multiple Scales
+ 1. National Scale
+ 2. Regional Scale
+- Concentrations
 
 ---
 
 ## Modeling Summertime TN, TP and Chl a Concentration
 
-More stuff
 
----
 
-## And the last
-
-- stuff
-- stuff
-- stuff
-- stuff
-- stuff
-- stuff
 
 
 
