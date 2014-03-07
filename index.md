@@ -27,7 +27,9 @@ mode        : selfcontained # {standalone, draft}
 ![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
 
 
---- 
+--- &twocol w1:20% w2:80% 
+
+***=left
 
 ## Lake Morphometry
 
@@ -38,7 +40,10 @@ mode        : selfcontained # {standalone, draft}
  > 1. Full Suite of Lake Morphometry
  > - list those here
  
+***=right
+
 And here is an attempt to output a formatted data.frame
+
 <table>
  <thead>
   <tr>

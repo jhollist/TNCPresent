@@ -30,7 +30,9 @@ options(width = 98)
 plot(rnorm(100),rnorm(100),main="Random Plot")
 ```
 
---- 
+--- &twocol w1:20% w2:80% 
+
+***=left
 
 ## Lake Morphometry
 
@@ -41,7 +43,10 @@ plot(rnorm(100),rnorm(100),main="Random Plot")
  > 1. Full Suite of Lake Morphometry
  > - list those here
  
+***=right
+
 And here is an attempt to output a formatted data.frame
+
 ```{r results='asis', echo=FALSE}
 kable(data.frame(a=rnorm(10),b=rnorm(10),c=rnorm(10),d=rnorm(10)),"html")
 ```
