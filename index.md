@@ -70,10 +70,6 @@ Row 3    | Row 3
 
 --- .segue
 
-<style>
-.segue h2{color:black}
-</style>
-
 ## Test
 
 
