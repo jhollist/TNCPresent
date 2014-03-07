@@ -10,12 +10,13 @@ highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
----
+--- &twocol w1:40% w2:60%
 
 ```{r options, echo=FALSE}
 suppressMessages(library(knitr))
 options(width = 98)
 ```
+
 ## Overview
 
 1. Lake Morphometry

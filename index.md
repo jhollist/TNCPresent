@@ -10,7 +10,8 @@ highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
----
+--- &twocol w1:40% w2:60%
+
 
 
 
@@ -46,64 +47,64 @@ And here is an attempt to output a formatted data.frame
  </thead>
 <tbody>
   <tr>
-   <td>  0.8366 </td>
-   <td>  0.0792 </td>
-   <td> -0.6572 </td>
-   <td> -0.8467 </td>
+   <td> -0.6496 </td>
+   <td> -1.5800 </td>
+   <td>  0.5370 </td>
+   <td> -0.4252 </td>
   </tr>
   <tr>
-   <td> -0.8438 </td>
-   <td>  0.2031 </td>
-   <td>  0.7459 </td>
-   <td>  0.3240 </td>
+   <td> -0.7731 </td>
+   <td>  0.3006 </td>
+   <td>  0.0654 </td>
+   <td>  0.0946 </td>
   </tr>
   <tr>
-   <td>  0.0625 </td>
-   <td>  0.8038 </td>
-   <td>  1.4394 </td>
-   <td>  0.9799 </td>
+   <td> -0.0610 </td>
+   <td> -0.0092 </td>
+   <td>  0.0196 </td>
+   <td>  0.0886 </td>
   </tr>
   <tr>
-   <td>  0.8940 </td>
-   <td>  0.4283 </td>
-   <td>  0.8665 </td>
-   <td>  0.3166 </td>
+   <td>  0.4115 </td>
+   <td> -0.5325 </td>
+   <td> -0.4102 </td>
+   <td> -1.9059 </td>
   </tr>
   <tr>
-   <td>  0.5838 </td>
-   <td> -2.0044 </td>
-   <td>  0.0640 </td>
-   <td>  0.6795 </td>
+   <td>  0.0332 </td>
+   <td>  0.2878 </td>
+   <td>  0.6614 </td>
+   <td>  1.7377 </td>
   </tr>
   <tr>
-   <td>  0.6037 </td>
-   <td> -1.5057 </td>
-   <td> -0.2883 </td>
-   <td>  2.5616 </td>
+   <td> -1.5278 </td>
+   <td>  1.1692 </td>
+   <td> -0.7304 </td>
+   <td>  0.4302 </td>
   </tr>
   <tr>
-   <td>  1.2084 </td>
-   <td> -0.3483 </td>
-   <td>  0.0741 </td>
-   <td>  0.7629 </td>
+   <td> -0.9704 </td>
+   <td> -1.0558 </td>
+   <td> -0.5677 </td>
+   <td>  1.1211 </td>
   </tr>
   <tr>
-   <td> -1.3533 </td>
-   <td> -0.5333 </td>
-   <td>  1.4745 </td>
-   <td>  0.4549 </td>
+   <td> -0.0529 </td>
+   <td>  0.7673 </td>
+   <td>  0.7289 </td>
+   <td> -0.2854 </td>
   </tr>
   <tr>
-   <td> -0.3712 </td>
-   <td> -0.1315 </td>
-   <td> -0.8967 </td>
-   <td> -0.2285 </td>
+   <td> -0.4862 </td>
+   <td> -0.1020 </td>
+   <td>  2.1437 </td>
+   <td> -0.4452 </td>
   </tr>
   <tr>
-   <td> -0.2215 </td>
-   <td> -0.2146 </td>
-   <td> -2.0358 </td>
-   <td> -0.6479 </td>
+   <td>  1.4932 </td>
+   <td>  0.0219 </td>
+   <td> -0.9136 </td>
+   <td>  0.4969 </td>
   </tr>
 </tbody>
 </table>
