@@ -18,7 +18,7 @@ mode        : selfcontained # {standalone, draft}
 2. USGS Sparrow
 3. Modeling TN, TP, and Chl a concentrations
 
-```{r, echo=FALSE}
+```{r echo=FALSE}
 plot(rnorm(100),rnorm(100),main="Random Plot")
 ```
 
@@ -32,6 +32,11 @@ plot(rnorm(100),rnorm(100),main="Random Plot")
 > - Rest of Country
  > 1. Full Suite of Lake Morphometry
  > - list those here
+ 
+And here is an attempt to output a formatted data.frame
+```{r results='asis', echo=FALSE}
+kable(data.frame(a=rnorm(10),b=rnorm(10),c=rnorm(10),d=rnorm(10)),"html")
+```
 
 ---
 

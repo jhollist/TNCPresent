@@ -31,6 +31,13 @@ mode        : selfcontained # {standalone, draft}
 > - Rest of Country
  > 1. Full Suite of Lake Morphometry
  > - list those here
+ 
+And here is an attempt to output a formatted data.frame
+
+```
+## Error: could not find function "kable"
+```
+
 
 ---
 
