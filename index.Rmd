@@ -49,20 +49,20 @@ Row 1    | Row 1
 Row 2    | Row 2
 Row 3    | Row 3
 
---- 
+--- &twocol w1:40% w2:60%
 
-## Tophic State
+## Two Column Layout   
 
-*** =left
-> - Stuff
-> - Stuff
-> - Stuff
-> - Stuff
 
-*** =right
-> - Stuff
-> - Stuff
-> - Stuff
+
+***=left
+
+- This is stuff
+- This is more stuff
+
+***=right
+
+![cat](http://www.funnycatpix.com/_pics/This_Is_Soooo_Boring.jpg)
 
 ---
 
