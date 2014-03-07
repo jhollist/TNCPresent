@@ -12,6 +12,11 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 ---
 
+```{r options, echo=FALSE}
+suppressMessages(library(pellys))
+options(width = 98)
+require(knitr)
+```
 ## Overview
 
 1. Lake Morphometry
