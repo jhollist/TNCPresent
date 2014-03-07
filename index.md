@@ -18,7 +18,7 @@ mode        : selfcontained # {standalone, draft}
 2. USGS Sparrow
 3. Modeling TN, TP, and Chl a concentrations
 
---- bg:#c4dbf2
+--- 
 
 ## Lake Morphometry
 
