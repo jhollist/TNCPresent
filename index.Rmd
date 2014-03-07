@@ -68,7 +68,7 @@ Row 3    | Row 3
 
 ## Availability
 
---- .segue
+--- .segue bg:url(http://www.pca.state.mn.us/artwork/newscenter/tab-littlerocklake.jpg)
 
 ## Test
 
