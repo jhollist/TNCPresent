@@ -18,7 +18,10 @@ mode        : selfcontained # {standalone, draft}
 2. USGS Sparrow
 3. Modeling TN, TP, and Chl a concentrations
 
-> And this is the best quote of all quotes that I have ever quoted.  I am trying to make it as long as possible so as to show the most wonderful possibilities of the block quoting style.  I bet it looks really, really, really, good...
+> And this is the best quote of all quotes that I have ever quoted.  
+> I am trying to make it as long as possible so as to show the most wonderful
+> possibilities of the block quoting style.  I bet it looks really, really, 
+> really, good...
 
 --- 
 
