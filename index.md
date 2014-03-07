@@ -70,9 +70,9 @@ Row 3    | Row 3
 
 --- .segue bg:url(http://www.pca.state.mn.us/artwork/newscenter/tab-littlerocklake.jpg)
 
-## this heading
-
-<h2 style="color:black">Test</h2>
+<hgroup>
+  <h2 style="color:#4A5B64">Cyanobacteria</h2>
+</hgroup>
 
 
 
