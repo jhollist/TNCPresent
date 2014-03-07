@@ -19,10 +19,13 @@ options(width = 98)
 
 ## Overview
 
+***=left
+
 1. Lake Morphometry
 2. USGS Sparrow
 3. Modeling TN, TP, and Chl a concentrations
 
+***=right
 ```{r echo=FALSE}
 plot(rnorm(100),rnorm(100),main="Random Plot")
 ```
