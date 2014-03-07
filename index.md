@@ -70,7 +70,7 @@ Row 3    | Row 3
 
 --- .segue bg:url(http://www.pca.state.mn.us/artwork/newscenter/tab-littlerocklake.jpg)
 
-<div class="segue"><h2 class="segue" style="color:black">Test</h2></div>
+<h2 style="color:black">Test</h2>
 
 
 
