@@ -27,7 +27,7 @@ mode        : selfcontained # {standalone, draft}
 ![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
 
 
---- &twocol w1:20% w2:80% 
+--- &twocol w1:40% w2:60% 
 
 ## Lake Morphometry
 

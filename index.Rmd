@@ -30,7 +30,7 @@ options(width = 98)
 plot(rnorm(100),rnorm(100),main="Random Plot")
 ```
 
---- &twocol w1:20% w2:80% 
+--- &twocol w1:40% w2:60% 
 
 ## Lake Morphometry
 
