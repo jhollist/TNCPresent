@@ -13,9 +13,8 @@ mode        : selfcontained # {standalone, draft}
 ---
 
 ```{r options, echo=FALSE}
-suppressMessages(library(pellys))
+suppressMessages(library(knitr))
 options(width = 98)
-require(knitr)
 ```
 ## Overview
 

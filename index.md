@@ -13,13 +13,6 @@ mode        : selfcontained # {standalone, draft}
 ---
 
 
-```
-## Error: there is no package called 'pellys'
-```
-
-```
-## Loading required package: knitr
-```
 
 ## Overview
 
