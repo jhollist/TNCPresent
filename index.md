@@ -29,16 +29,16 @@ mode        : selfcontained # {standalone, draft}
 
 --- &twocol w1:20% w2:80% 
 
-***=left
-
 ## Lake Morphometry
 
-> - Northeastern US
- > 1. Volume
- > 2. Depth
-> - Rest of Country
- > 1. Full Suite of Lake Morphometry
- > - list those here
+***=left
+
+- Northeastern US
+ 1. Volume
+ 2. Depth
+- Rest of Country
+ 1. Full Suite of Lake Morphometry
+- list those here
  
 ***=right
 
