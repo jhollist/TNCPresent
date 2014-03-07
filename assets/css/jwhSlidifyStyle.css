@@ -79,6 +79,13 @@ table tr > td:first-child {
   color: #559B6A;
 }
 
+/* segue positioning */
+.segue hgroup {
+  position: absolute;
+  bottom: 500px;
+  left: 500px;
+}
+
 
 
 
