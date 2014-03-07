@@ -17,10 +17,13 @@ mode        : selfcontained # {standalone, draft}
 
 ## Overview
 
+***=left
+
 1. Lake Morphometry
 2. USGS Sparrow
 3. Modeling TN, TP, and Chl a concentrations
 
+***=right
 ![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
 
 
