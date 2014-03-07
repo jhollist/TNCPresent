@@ -80,7 +80,7 @@ table tr > td:first-child {
 }
 
 /* segue positioning */
-.segue hgroup {
+.segue hgroup:not(.title-slide) {
   position: absolute;
   bottom: 300px;
   left: 500px;
