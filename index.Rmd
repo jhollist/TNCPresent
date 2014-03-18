@@ -14,16 +14,16 @@ mode        : selfcontained # {standalone, draft}
 
 ```{r options, echo=FALSE}
 suppressMessages(library(knitr))
-options(width = 98)
+suppressMessages(library(slidify))
 ```
 
 ## Overview
 
-***=left
+*** &twocol w1:40% w2:60% 
 
 1. Lake Morphometry
 2. USGS Sparrow
-3. Modeling TN, TP, and Chl a concentrations
+3. Modeling TN, TP, and Chl a
 
 ***=right
 ```{r echo=FALSE}
@@ -96,8 +96,8 @@ Row 3    | Row 3
   <h2 style="color:#4A5B64">Cyanobacteria</h2>
 </hgroup>
 
-
-
-
-
+```{r createSlides, echo=FALSE}
+slidify("index.Rmd")
+publish_github("TNCPresent",ssh=F)
+```
 
