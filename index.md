@@ -17,14 +17,13 @@ mode        : selfcontained # {standalone, draft}
 
 ## Overview
 
-*** &twocol w1:40% w2:60% 
+***=left
 
 1. Lake Morphometry
 2. USGS Sparrow
-3. Modeling TN, TP, and Chl a
-
+3. Modeling TN, TP, and Chl a 
 ***=right
-![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1.png) 
+![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
 
 
 --- &twocol w1:40% w2:60% 
@@ -55,64 +54,64 @@ And here is an attempt to output a formatted data.frame
  </thead>
 <tbody>
   <tr>
-   <td>  1.7293 </td>
-   <td> -0.3259 </td>
-   <td> -0.0283 </td>
-   <td>  0.8237 </td>
+   <td> -0.6496 </td>
+   <td> -1.5800 </td>
+   <td>  0.5370 </td>
+   <td> -0.4252 </td>
   </tr>
   <tr>
-   <td>  0.4554 </td>
-   <td>  0.2852 </td>
-   <td> -0.6614 </td>
-   <td> -0.1011 </td>
+   <td> -0.7731 </td>
+   <td>  0.3006 </td>
+   <td>  0.0654 </td>
+   <td>  0.0946 </td>
   </tr>
   <tr>
-   <td>  0.7517 </td>
-   <td>  0.1227 </td>
-   <td>  0.4565 </td>
-   <td>  0.5042 </td>
+   <td> -0.0610 </td>
+   <td> -0.0092 </td>
+   <td>  0.0196 </td>
+   <td>  0.0886 </td>
   </tr>
   <tr>
-   <td>  1.5410 </td>
-   <td>  0.4248 </td>
-   <td>  0.8027 </td>
-   <td> -0.0953 </td>
+   <td>  0.4115 </td>
+   <td> -0.5325 </td>
+   <td> -0.4102 </td>
+   <td> -1.9059 </td>
   </tr>
   <tr>
-   <td>  0.1011 </td>
-   <td>  0.5884 </td>
-   <td> -0.7049 </td>
-   <td> -0.7956 </td>
+   <td>  0.0332 </td>
+   <td>  0.2878 </td>
+   <td>  0.6614 </td>
+   <td>  1.7377 </td>
   </tr>
   <tr>
-   <td>  0.9400 </td>
-   <td> -0.9279 </td>
-   <td> -0.6290 </td>
-   <td>  0.5410 </td>
+   <td> -1.5278 </td>
+   <td>  1.1692 </td>
+   <td> -0.7304 </td>
+   <td>  0.4302 </td>
   </tr>
   <tr>
-   <td> -0.4820 </td>
-   <td>  0.1273 </td>
-   <td>  0.0078 </td>
-   <td> -1.7877 </td>
+   <td> -0.9704 </td>
+   <td> -1.0558 </td>
+   <td> -0.5677 </td>
+   <td>  1.1211 </td>
   </tr>
   <tr>
-   <td>  0.9043 </td>
-   <td> -0.8487 </td>
-   <td> -0.7853 </td>
-   <td> -0.5064 </td>
+   <td> -0.0529 </td>
+   <td>  0.7673 </td>
+   <td>  0.7289 </td>
+   <td> -0.2854 </td>
   </tr>
   <tr>
-   <td>  1.4259 </td>
-   <td>  0.5214 </td>
-   <td>  0.3782 </td>
-   <td>  0.2559 </td>
+   <td> -0.4862 </td>
+   <td> -0.1020 </td>
+   <td>  2.1437 </td>
+   <td> -0.4452 </td>
   </tr>
   <tr>
-   <td>  0.1167 </td>
-   <td> -0.6590 </td>
-   <td> -0.3456 </td>
-   <td>  0.8914 </td>
+   <td>  1.4932 </td>
+   <td>  0.0219 </td>
+   <td> -0.9136 </td>
+   <td>  0.4969 </td>
   </tr>
 </tbody>
 </table>
@@ -164,19 +163,7 @@ Row 3    | Row 3
 </hgroup>
 
 
-```
-## 
-## 
-## processing file: index.Rmd
-```
 
-```
-## Error: duplicate label 'options'
-```
 
-```
-## Publishing deck to jhollist/TNCPresent
-## You can now view your slide deck at http://jhollist.github.com/TNCPresent
-```
 
 
