@@ -1,88 +1,182 @@
 <!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
 <html>
 <head>
-  <title>Modeling Lake Morphometry and Trophic State</title>
-  <meta charset="utf-8">
-  <meta name="description" content="Modeling Lake Morphometry and Trophic State">
-  <meta name="author" content="Jeff Hollister">
-  <meta name="generator" content="slidify" />
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta http-equiv="X-UA-Compatible" content="chrome=1">
-  <link rel="stylesheet" href="libraries/frameworks/io2012/css/default.css" media="all" >
-  <link rel="stylesheet" href="libraries/frameworks/io2012/css/phone.css" 
-    media="only screen and (max-device-width: 480px)" >
-  <link rel="stylesheet" href="libraries/frameworks/io2012/css/slidify.css" >
-  <link rel="stylesheet" href="libraries/highlighters/highlight.js/css/tomorrow.css" />
-  <base target="_blank"> <!-- This amazingness opens all links in a new tab. -->  <link rel=stylesheet href="./assets/css/jwhSlidifyStyle.css"></link>
-<link rel=stylesheet href="./assets/css/ribbons.css"></link>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=9" >
 
-  
-  <!-- Grab CDN jQuery, fall back to local if offline -->
-  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
-  <script>window.jQuery || document.write('<script src="libraries/widgets/quiz/js/jquery.js"><\/script>')</script> 
-  <script data-main="libraries/frameworks/io2012/js/slides" 
-    src="libraries/frameworks/io2012/js/require-1.0.8.min.js">
-  </script>
-  
-  
+<title>Overview</title>
+
+<style type="text/css">
+body, td {
+   font-family: sans-serif;
+   background-color: white;
+   font-size: 12px;
+   margin: 8px;
+}
+
+tt, code, pre {
+   font-family: 'DejaVu Sans Mono', 'Droid Sans Mono', 'Lucida Console', Consolas, Monaco, monospace;
+}
+
+h1 { 
+   font-size:2.2em; 
+}
+
+h2 { 
+   font-size:1.8em; 
+}
+
+h3 { 
+   font-size:1.4em; 
+}
+
+h4 { 
+   font-size:1.0em; 
+}
+
+h5 { 
+   font-size:0.9em; 
+}
+
+h6 { 
+   font-size:0.8em; 
+}
+
+a:visited {
+   color: rgb(50%, 0%, 50%);
+}
+
+pre {	
+   margin-top: 0;
+   max-width: 95%;
+   border: 1px solid #ccc;
+   white-space: pre-wrap;
+}
+
+pre code {
+   display: block; padding: 0.5em;
+}
+
+code.r, code.cpp {
+   background-color: #F8F8F8;
+}
+
+table, td, th {
+  border: none;
+}
+
+blockquote {
+   color:#666666;
+   margin:0;
+   padding-left: 1em;
+   border-left: 0.5em #EEE solid;
+}
+
+hr {
+   height: 0px;
+   border-bottom: none;
+   border-top-width: thin;
+   border-top-style: dotted;
+   border-top-color: #999999;
+}
+
+@media print {
+   * { 
+      background: transparent !important; 
+      color: black !important; 
+      filter:none !important; 
+      -ms-filter: none !important; 
+   }
+
+   body { 
+      font-size:12pt; 
+      max-width:100%; 
+   }
+       
+   a, a:visited { 
+      text-decoration: underline; 
+   }
+
+   hr { 
+      visibility: hidden;
+      page-break-before: always;
+   }
+
+   pre, blockquote { 
+      padding-right: 1em; 
+      page-break-inside: avoid; 
+   }
+
+   tr, img { 
+      page-break-inside: avoid; 
+   }
+
+   img { 
+      max-width: 100% !important; 
+   }
+
+   @page :left { 
+      margin: 15mm 20mm 15mm 10mm; 
+   }
+     
+   @page :right { 
+      margin: 15mm 10mm 15mm 20mm; 
+   }
+
+   p, h2, h3 { 
+      orphans: 3; widows: 3; 
+   }
+
+   h2, h3 { 
+      page-break-after: avoid; 
+   }
+}
+
+</style>
+
+
+
+
 
 </head>
-<body style="opacity: 0">
-  <slides class="layout-widescreen">
-    
-    <!-- LOGO SLIDE -->
-      <slide class="nobackground">
-    <article class="flexbox vcenter">
-      <span>
-        <img width='300px' src="assets/img/epa-seal.png">
-      </span>
-    </article>
-  </slide>
-    <slide class="title-slide segue nobackground">
-  <aside class="gdbar">
-    <img src="assets/img/epa-seal.png">
-  </aside>
-  <hgroup class="auto-fadein">
-    <h1>Modeling Lake Morphometry and Trophic State</h1>
-    <h2>Presentation for TNC Lake Classifcation Steering Committee</h2>
-    <p>Jeff Hollister<br/>US EPA, Research Ecologist</p>
-  </hgroup>
-  <article></article>  
-</slide>
-    
 
-    <!-- SLIDES -->
-    <slide class="" id="">
-  <hgroup>
-    <h2>Overview</h2>
-    <br/>
-  </hgroup>
-  <article>
-      
-    <div class='left' style='float:left;width:40%'>
-      <ol>
+<body>
+<hr/>
+
+<p>title       : Modeling Lake Morphometry and Trophic State
+subtitle    : Presentation for TNC Lake Classifcation Steering Committee
+author      : Jeff Hollister
+logo        : epa-seal.png
+biglogo     : epa-seal.png
+job         : US EPA, Research Ecologist
+framework   : io2012        # {io2012, html5slides, shower, dzslides, &hellip;}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+&mdash; &amp;twocol w1:40% w2:60%</p>
+
+<h2>Overview</h2>
+
+<p>*** &amp;twocol w1:40% w2:60% </p>
+
+<ol>
 <li>Lake Morphometry</li>
 <li>USGS Sparrow</li>
-<li>Modeling TN, TP, and Chl a concentrations</li>
+<li>Modeling TN, TP, and Chl a</li>
 </ol>
 
-    </div>    
-    <div class='right' style='float:right;width:60%'>
-      <p><img src="assets/fig/unnamed-chunk-1.png" alt="plot of chunk unnamed-chunk-1"> </p>
+<p>***=right
+<img src="data:image/png;base64,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" alt="plot of chunk unnamed-chunk-1"/> </p>
 
-    </div>
-  </article>
-</slide>
+<p>&mdash; &amp;twocol w1:40% w2:60% </p>
 
-<slide class="" id="">
-  <hgroup>
-    <h2>Lake Morphometry</h2>
-    <br/>
-  </hgroup>
-  <article>
-      
-    <div class='left' style='float:left;width:40%'>
-      <ul>
+<h2>Lake Morphometry</h2>
+
+<p>***=left</p>
+
+<ul>
 <li>Northeastern US
 
 <ol>
@@ -97,9 +191,9 @@
 <li>list those here</li>
 </ul>
 
-    </div>    
-    <div class='right' style='float:right;width:60%'>
-      <p>And here is an attempt to output a formatted data.frame</p>
+<p>***=right</p>
+
+<p>And here is an attempt to output a formatted data.frame</p>
 
 <table>
  <thead>
@@ -112,78 +206,73 @@
  </thead>
 <tbody>
   <tr>
-   <td> -0.6496 </td>
-   <td> -1.5800 </td>
-   <td>  0.5370 </td>
-   <td> -0.4252 </td>
+   <td>  1.7293 </td>
+   <td> -0.3259 </td>
+   <td> -0.0283 </td>
+   <td>  0.8237 </td>
   </tr>
   <tr>
-   <td> -0.7731 </td>
-   <td>  0.3006 </td>
-   <td>  0.0654 </td>
-   <td>  0.0946 </td>
+   <td>  0.4554 </td>
+   <td>  0.2852 </td>
+   <td> -0.6614 </td>
+   <td> -0.1011 </td>
   </tr>
   <tr>
-   <td> -0.0610 </td>
-   <td> -0.0092 </td>
-   <td>  0.0196 </td>
-   <td>  0.0886 </td>
+   <td>  0.7517 </td>
+   <td>  0.1227 </td>
+   <td>  0.4565 </td>
+   <td>  0.5042 </td>
   </tr>
   <tr>
-   <td>  0.4115 </td>
-   <td> -0.5325 </td>
-   <td> -0.4102 </td>
-   <td> -1.9059 </td>
+   <td>  1.5410 </td>
+   <td>  0.4248 </td>
+   <td>  0.8027 </td>
+   <td> -0.0953 </td>
   </tr>
   <tr>
-   <td>  0.0332 </td>
-   <td>  0.2878 </td>
-   <td>  0.6614 </td>
-   <td>  1.7377 </td>
+   <td>  0.1011 </td>
+   <td>  0.5884 </td>
+   <td> -0.7049 </td>
+   <td> -0.7956 </td>
   </tr>
   <tr>
-   <td> -1.5278 </td>
-   <td>  1.1692 </td>
-   <td> -0.7304 </td>
-   <td>  0.4302 </td>
+   <td>  0.9400 </td>
+   <td> -0.9279 </td>
+   <td> -0.6290 </td>
+   <td>  0.5410 </td>
   </tr>
   <tr>
-   <td> -0.9704 </td>
-   <td> -1.0558 </td>
-   <td> -0.5677 </td>
-   <td>  1.1211 </td>
+   <td> -0.4820 </td>
+   <td>  0.1273 </td>
+   <td>  0.0078 </td>
+   <td> -1.7877 </td>
   </tr>
   <tr>
-   <td> -0.0529 </td>
-   <td>  0.7673 </td>
-   <td>  0.7289 </td>
-   <td> -0.2854 </td>
+   <td>  0.9043 </td>
+   <td> -0.8487 </td>
+   <td> -0.7853 </td>
+   <td> -0.5064 </td>
   </tr>
   <tr>
-   <td> -0.4862 </td>
-   <td> -0.1020 </td>
-   <td>  2.1437 </td>
-   <td> -0.4452 </td>
+   <td>  1.4259 </td>
+   <td>  0.5214 </td>
+   <td>  0.3782 </td>
+   <td>  0.2559 </td>
   </tr>
   <tr>
-   <td>  1.4932 </td>
-   <td>  0.0219 </td>
-   <td> -0.9136 </td>
-   <td>  0.4969 </td>
+   <td>  0.1167 </td>
+   <td> -0.6590 </td>
+   <td> -0.3456 </td>
+   <td>  0.8914 </td>
   </tr>
 </tbody>
 </table>
 
-    </div>
-  </article>
-</slide>
+<hr/>
 
-<slide class="" id="slide-3" style="background:;">
-  <hgroup>
-    <h2>USGS SPARROW</h2>
-  </hgroup>
-  <article data-timings="">
-    <ul>
+<h2>USGS SPARROW</h2>
+
+<ul>
 <li>Nutrient Load Model</li>
 <li>Multiple Scales
 
@@ -194,16 +283,11 @@
 <li>Concentrations</li>
 </ul>
 
-  </article>
-  <!-- Presenter Notes -->
-</slide>
+<hr/>
 
-<slide class="" id="slide-4" style="background:;">
-  <hgroup>
-    <h2>Modeling Summertime TN, TP and Chl a Concentration</h2>
-  </hgroup>
-  <article data-timings="">
-    <table><thead>
+<h2>Modeling Summertime TN, TP and Chl a Concentration</h2>
+
+<table><thead>
 <tr>
 <th>Column X</th>
 <th>Column Y</th>
@@ -223,110 +307,44 @@
 </tr>
 </tbody></table>
 
-  </article>
-  <!-- Presenter Notes -->
-</slide>
+<p>&mdash; &amp;twocol w1:40% w2:60%</p>
 
-<slide class="" id="">
-  <hgroup>
-    <h2>Two Column Layout</h2>
-    <br/>
-  </hgroup>
-  <article>
-      
-    <div class='left' style='float:left;width:40%'>
-      <ul>
+<h2>Two Column Layout</h2>
+
+<p>***=left</p>
+
+<ul>
 <li>This is stuff</li>
 <li>This is more stuff</li>
 </ul>
 
-    </div>    
-    <div class='right' style='float:right;width:60%'>
-      <p><img src="http://www.funnycatpix.com/_pics/This_Is_Soooo_Boring.jpg" alt="cat"></p>
+<p>***=right</p>
 
-    </div>
-  </article>
-</slide>
+<p><img src="http://www.funnycatpix.com/_pics/This_Is_Soooo_Boring.jpg" alt="cat"/></p>
 
-<slide class="" id="slide-6" style="background:;">
-  <hgroup>
-    <h2>Availability</h2>
-  </hgroup>
-  <article data-timings="">
-    
-  </article>
-  <!-- Presenter Notes -->
-</slide>
+<hr/>
 
-<slide class="segue" id="slide-7" style="background:url(http://www.pca.state.mn.us/artwork/newscenter/tab-littlerocklake.jpg);">
-  <article data-timings="">
-    <p><hgroup>
+<h2>Availability</h2>
+
+<p>&mdash; .segue bg:url(<a href="http://www.pca.state.mn.us/artwork/newscenter/tab-littlerocklake.jpg">http://www.pca.state.mn.us/artwork/newscenter/tab-littlerocklake.jpg</a>)</p>
+
+<p><hgroup>
   <h2 style="color:#4A5B64">Cyanobacteria</h2>
 </hgroup></p>
 
-  </article>
-  <!-- Presenter Notes -->
-</slide>
+<pre><code>## 
+## 
+## processing file: index.Rmd
+</code></pre>
 
-    <slide class="backdrop"></slide>
-  </slides>
-  <div class="pagination pagination-small" id='io2012-ptoc' style="display:none;">
-    <ul>
-      <li>
-      <a href="#" target="_self" rel='tooltip' 
-        data-slide=1 title='Overview'>
-         1
-      </a>
-    </li>
-    <li>
-      <a href="#" target="_self" rel='tooltip' 
-        data-slide=2 title='Lake Morphometry'>
-         2
-      </a>
-    </li>
-    <li>
-      <a href="#" target="_self" rel='tooltip' 
-        data-slide=3 title='USGS SPARROW'>
-         3
-      </a>
-    </li>
-    <li>
-      <a href="#" target="_self" rel='tooltip' 
-        data-slide=4 title='Modeling Summertime TN, TP and Chl a Concentration'>
-         4
-      </a>
-    </li>
-    <li>
-      <a href="#" target="_self" rel='tooltip' 
-        data-slide=5 title='Two Column Layout'>
-         5
-      </a>
-    </li>
-    <li>
-      <a href="#" target="_self" rel='tooltip' 
-        data-slide=6 title='Availability'>
-         6
-      </a>
-    </li>
-    <li>
-      <a href="#" target="_self" rel='tooltip' 
-        data-slide=7 title=''>
-         7
-      </a>
-    </li>
-  </ul>
-  </div>  <!--[if IE]>
-    <script 
-      src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js">  
-    </script>
-    <script>CFInstall.check({mode: 'overlay'});</script>
-  <![endif]-->
+<pre><code>## Error: duplicate label &#39;options&#39;
+</code></pre>
+
+<pre><code>## Publishing deck to jhollist/TNCPresent
+## You can now view your slide deck at http://jhollist.github.com/TNCPresent
+</code></pre>
+
 </body>
-  <!-- Load Javascripts for Widgets -->
-  
-  <!-- LOAD HIGHLIGHTER JS FILES -->
-  <script src="libraries/highlighters/highlight.js/highlight.pack.js"></script>
-  <script>hljs.initHighlightingOnLoad();</script>
-  <!-- DONE LOADING HIGHLIGHTER JS FILES -->
-   
-  </html>
+
+</html>
+
