@@ -22,9 +22,10 @@ mode        : selfcontained # {standalone, draft}
 1. Lake Morphometry
 2. USGS Sparrow
 3. Modeling TN, TP, and Chl a 
-***=right
-![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
 
+***=right
+
+![Lake Lila](/assets/img/Lila1.jpg)
 
 --- &twocol w1:40% w2:60% 
 
@@ -54,64 +55,64 @@ And here is an attempt to output a formatted data.frame
  </thead>
 <tbody>
   <tr>
-   <td> -0.6496 </td>
-   <td> -1.5800 </td>
-   <td>  0.5370 </td>
-   <td> -0.4252 </td>
+   <td> -0.8314 </td>
+   <td>  1.6888 </td>
+   <td> -2.2864 </td>
+   <td>  0.3252 </td>
   </tr>
   <tr>
-   <td> -0.7731 </td>
-   <td>  0.3006 </td>
-   <td>  0.0654 </td>
-   <td>  0.0946 </td>
+   <td> -1.0977 </td>
+   <td>  0.6993 </td>
+   <td>  0.3925 </td>
+   <td> -1.3230 </td>
   </tr>
   <tr>
-   <td> -0.0610 </td>
-   <td> -0.0092 </td>
-   <td>  0.0196 </td>
-   <td>  0.0886 </td>
+   <td>  0.6205 </td>
+   <td>  0.2658 </td>
+   <td>  1.1773 </td>
+   <td>  0.1271 </td>
   </tr>
   <tr>
-   <td>  0.4115 </td>
-   <td> -0.5325 </td>
-   <td> -0.4102 </td>
-   <td> -1.9059 </td>
+   <td> -1.0056 </td>
+   <td> -0.1726 </td>
+   <td> -0.0985 </td>
+   <td> -2.0393 </td>
   </tr>
   <tr>
-   <td>  0.0332 </td>
-   <td>  0.2878 </td>
-   <td>  0.6614 </td>
-   <td>  1.7377 </td>
+   <td>  0.7927 </td>
+   <td> -1.4143 </td>
+   <td> -0.1068 </td>
+   <td> -0.7536 </td>
   </tr>
   <tr>
-   <td> -1.5278 </td>
-   <td>  1.1692 </td>
-   <td> -0.7304 </td>
-   <td>  0.4302 </td>
+   <td>  1.1614 </td>
+   <td> -0.6920 </td>
+   <td>  0.2128 </td>
+   <td>  0.3856 </td>
   </tr>
   <tr>
-   <td> -0.9704 </td>
-   <td> -1.0558 </td>
-   <td> -0.5677 </td>
-   <td>  1.1211 </td>
+   <td> -1.7156 </td>
+   <td>  0.3774 </td>
+   <td>  1.2232 </td>
+   <td> -0.2500 </td>
   </tr>
   <tr>
-   <td> -0.0529 </td>
-   <td>  0.7673 </td>
-   <td>  0.7289 </td>
-   <td> -0.2854 </td>
+   <td> -0.2299 </td>
+   <td>  0.4044 </td>
+   <td>  1.2914 </td>
+   <td>  0.0004 </td>
   </tr>
   <tr>
-   <td> -0.4862 </td>
-   <td> -0.1020 </td>
-   <td>  2.1437 </td>
-   <td> -0.4452 </td>
+   <td>  2.4441 </td>
+   <td>  0.8836 </td>
+   <td>  1.1207 </td>
+   <td>  0.4483 </td>
   </tr>
   <tr>
-   <td>  1.4932 </td>
-   <td>  0.0219 </td>
-   <td> -0.9136 </td>
-   <td>  0.4969 </td>
+   <td>  0.5721 </td>
+   <td>  0.2427 </td>
+   <td> -0.1146 </td>
+   <td> -0.8549 </td>
   </tr>
 </tbody>
 </table>
