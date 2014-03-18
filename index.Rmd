@@ -24,11 +24,11 @@ options(width = 98)
 1. Lake Morphometry
 2. USGS Sparrow
 3. Modeling TN, TP, and Chl a 
-***=right
-```{r echo=FALSE}
-plot(rnorm(100),rnorm(100),main="Random Plot")
-```
 
+***=right
+
+
+![Lake Lila](/assets/img/Lila1.jpg)
 --- &twocol w1:40% w2:60% 
 
 ## Lake Morphometry
