@@ -25,7 +25,7 @@ mode        : selfcontained # {standalone, draft}
 
 ***=right
 
-![Lake Lila](/assets/img/Lila1.jpg)
+![Lake Lila](assets/img/Lila1.jpg)
 
 --- &twocol w1:40% w2:60% 
 
