@@ -86,6 +86,11 @@ table tr > td:first-child {
   left: 500px;
 }
 
+/* set default sizing on images */
+img {
+    max-height: 560px;
+    max-width: 964px;
+}
 
 
 
