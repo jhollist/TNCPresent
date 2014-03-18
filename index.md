@@ -10,7 +10,7 @@ highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
---- &twocol w1:40% w2:60%
+--- &twocol w1:60% w2:40%
 
 
 
@@ -27,95 +27,41 @@ mode        : selfcontained # {standalone, draft}
 
 <img src="assets/img/Lila1.jpg" style="height: 500px;"/>
 
---- &twocol w1:40% w2:60% 
+--- .segue bg:url(assets/img/Lila2.jpg)
+
+<hgroup>
+  <h2 style="color:#4A5B64">Lake Morphometry</h2>
+</hgroup>
+
+--- &twocol w1:50% w2:50%
 
 ## Lake Morphometry
 
 ***=left
 
-- Northeastern US
- 1. Volume
- 2. Depth
-- Rest of Country
- 1. Full Suite of Lake Morphometry
-- list those here
+- Northeastern US: Past Work
+ - Volume: 
+  - [Hollister and Milstead, 2010](http://dx.doi.org/10.1080/07438141.2010.504321)
+ - Depth: 
+  - [Hollister et al. 2011](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0025764)
+- Rest of Country: Current Work
+ - Full Suite of Lake Morphometry
+ - Draft for ~380,000 lakes
  
 ***=right
 
-And here is an attempt to output a formatted data.frame
-
-<table>
- <thead>
-  <tr>
-   <th> a </th>
-   <th> b </th>
-   <th> c </th>
-   <th> d </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td> -0.8314 </td>
-   <td>  1.6888 </td>
-   <td> -2.2864 </td>
-   <td>  0.3252 </td>
-  </tr>
-  <tr>
-   <td> -1.0977 </td>
-   <td>  0.6993 </td>
-   <td>  0.3925 </td>
-   <td> -1.3230 </td>
-  </tr>
-  <tr>
-   <td>  0.6205 </td>
-   <td>  0.2658 </td>
-   <td>  1.1773 </td>
-   <td>  0.1271 </td>
-  </tr>
-  <tr>
-   <td> -1.0056 </td>
-   <td> -0.1726 </td>
-   <td> -0.0985 </td>
-   <td> -2.0393 </td>
-  </tr>
-  <tr>
-   <td>  0.7927 </td>
-   <td> -1.4143 </td>
-   <td> -0.1068 </td>
-   <td> -0.7536 </td>
-  </tr>
-  <tr>
-   <td>  1.1614 </td>
-   <td> -0.6920 </td>
-   <td>  0.2128 </td>
-   <td>  0.3856 </td>
-  </tr>
-  <tr>
-   <td> -1.7156 </td>
-   <td>  0.3774 </td>
-   <td>  1.2232 </td>
-   <td> -0.2500 </td>
-  </tr>
-  <tr>
-   <td> -0.2299 </td>
-   <td>  0.4044 </td>
-   <td>  1.2914 </td>
-   <td>  0.0004 </td>
-  </tr>
-  <tr>
-   <td>  2.4441 </td>
-   <td>  0.8836 </td>
-   <td>  1.1207 </td>
-   <td>  0.4483 </td>
-  </tr>
-  <tr>
-   <td>  0.5721 </td>
-   <td>  0.2427 </td>
-   <td> -0.1146 </td>
-   <td> -0.8549 </td>
-  </tr>
-</tbody>
-</table>
+Inlcuded Morphometry Metrics        |
+------------------------------------|
+Surface Area                        |
+Shoreline Length                    |
+Shoreline Development               |
+Maximum Depth                       |
+Mean Depth                          |
+Lake Volume                         |
+Maximum Lake Length                 |
+Mean Lake Width                     |
+Maximum Lake Width                  |
+Fetch from a specified bearing      |
 
 
 ---
