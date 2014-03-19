@@ -43,6 +43,7 @@ mode        : selfcontained # {standalone, draft}
 - Rest of Country: Current Work
  - Full Suite of Lake Morphometry
  - Draft for ~380,000 lakes
+ - [R package availble from Github](https://github.com/USEPA/lakemorpho)
  
 ***=right
 
@@ -120,10 +121,11 @@ Fetch from a specified bearing      |
 
 <img src="assets/img/journal.pone.0081457.g007.png" style="margin-top:-110px;max-height:650px;"/>
 
----
+--- &twocol w1:40% w2:60%
 
 ## Availability
 
+***=left
 - Morphometry:
   - Draft for Conterminus US
   - Validation ongoing
@@ -131,6 +133,10 @@ Fetch from a specified bearing      |
 - Trophic State:
  - New England - HUC01
  - Mid-Atlantic - HUC02
+
+***=right
+
+<img src="https://water.usgs.gov/wsc/imageregions.jpg" />
 
 --- .segue bg:url(http://www.pca.state.mn.us/artwork/newscenter/tab-littlerocklake.jpg)
 
@@ -149,11 +155,13 @@ Fetch from a specified bearing      |
 <img src="assets/img/function.jpg" style="margin:auto; width:100%;" />
 
 
---- .thankyou-slide
+--- .segue bg:url(assets/img/DSC00195.jpg)
 
 ## Thanks and Questions
 
-Acknowledgments: Bryan Milstead, Betty Kreakie, Hal Walker, Jane Copeland, Mike Charpentier, Richard Moore, Andrea Urrutia
+<span style="color:white;font-size:60%;position:absolute;bottom:0px;left:10px;">Photo Credit: URI Watershed Watch</span>
+
+
 
 
 
