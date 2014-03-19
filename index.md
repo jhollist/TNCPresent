@@ -155,11 +155,9 @@ Fetch from a specified bearing      |
 <img src="assets/img/function.jpg" style="margin:auto; width:100%;" />
 
 
---- .segue bg:url(assets/img/NLAAppeal.jpg)
+--- .segue bg:url(assets/img/DSC00195_80.jpg)
 
 ## Thanks and Questions
-
-![test](assets/img/DSC00195_80.jpg)
 
 <span style="color:white;font-size:60%;position:absolute;bottom:0px;left:10px;">Photo Credit: URI Watershed Watch</span>
 
