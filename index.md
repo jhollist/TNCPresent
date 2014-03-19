@@ -43,7 +43,7 @@ mode        : selfcontained # {standalone, draft}
 - Rest of Country: Current Work
  - Full Suite of Lake Morphometry
  - Draft for ~380,000 lakes
- - [R package availble from Github](https://github.com/USEPA/lakemorpho)
+ - [R package available from Github](https://github.com/USEPA/lakemorpho)
  
 ***=right
 
