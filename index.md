@@ -67,7 +67,7 @@ Fetch from a specified bearing      |
 
 <img src="assets/img/journal.pone.0025764.g002.png" style="height: 600px;margin-left:290px;margin-top:-50px;"/>
 
---- .segue bg:url(assets/img/Pooecetes_gramineus_-USA-8_small.jpg)
+--- .segue bg:url(assets/img/Pooecetes_gramineus_-USA-8_small_80.jpg)
 
 ## Extending USGS SPARROW
 
@@ -155,9 +155,11 @@ Fetch from a specified bearing      |
 <img src="assets/img/function.jpg" style="margin:auto; width:100%;" />
 
 
---- .segue bg:url(assets/img/DSC00195.jpg)
+--- .segue bg:url(assets/img/NLAAppeal.jpg)
 
 ## Thanks and Questions
+
+![test](assets/img/DSC00195_80.jpg)
 
 <span style="color:white;font-size:60%;position:absolute;bottom:0px;left:10px;">Photo Credit: URI Watershed Watch</span>
 
