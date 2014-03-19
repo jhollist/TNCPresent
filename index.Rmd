@@ -151,6 +151,7 @@ Fetch from a specified bearing      |
 ## Cyanobacteria
 
 <span style="color:white;font-size:60%;position:absolute;bottom:0px;left:10px;">Photo Credit: http://www.pca.state.mn.us/</span>
+
 --- 
 
 ## Our Project
