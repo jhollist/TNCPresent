@@ -67,9 +67,14 @@ Fetch from a specified bearing      |
 
 <img src="assets/img/journal.pone.0025764.g002.png" style="height: 600px;margin-left:290px;margin-top:-50px;"/>
 
+
 --- .segue bg:url(assets/img/Pooecetes_gramineus_-USA-8_small_80.jpg)
 
+<span style="color:white;font-size:60%;position:absolute;bottom:0px;left:10px;"><a href="http://www.flickr.com/photos/59323989@N00">Photo Credit: Seabamirum</a></span>
+
 ## Extending USGS SPARROW
+
+
 
 --- &twocol w1:40% w2:60%
 
@@ -85,7 +90,7 @@ Fetch from a specified bearing      |
 ***=right
 
 <img src="http://wi.water.usgs.gov/rna/9km30/images/SPARROW_model.jpg" style="margin-top:-50px;") />
-
+<span style="font-size:60%;position:absolute;bottom:0px;left:10px;">Map Credit: http://wi.water.usgs.gov/</span>
 
 --- &twocol w1:38% w2:60%
 
@@ -142,6 +147,7 @@ Fetch from a specified bearing      |
 
 ## Cyanobacteria
 
+<span style="color:white;font-size:60%;position:absolute;bottom:0px;left:10px;">Photo Credit: http://www.pca.state.mn.us/</span>
 --- 
 
 ## Our Project
@@ -153,6 +159,7 @@ Fetch from a specified bearing      |
  
 
 <img src="assets/img/function.jpg" style="margin:auto; width:100%;" />
+
 
 
 --- .segue bg:url(assets/img/DSC00195_80_900-1200.jpg)
