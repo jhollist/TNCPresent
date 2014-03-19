@@ -144,6 +144,7 @@ Fetch from a specified bearing      |
 ***=right
 
 <img src="https://water.usgs.gov/wsc/imageregions.jpg" />
+<span style="font-size:60%;position:absolute;bottom:0px;left:10px;">Map Credit: http://water.usgs.gov/</span>
 
 --- .segue bg:url(http://www.pca.state.mn.us/artwork/newscenter/tab-littlerocklake.jpg)
 
