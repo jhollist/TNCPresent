@@ -27,7 +27,7 @@ mode        : selfcontained # {standalone, draft}
 
 <img src="assets/img/Lila1.jpg" style="height: 600px;margin-top:-95px;"/>
 
---- .segue bg:url(assets/img/Lila2.jpg)
+--- .segue bg:url(assets/img/Lila2_80.jpg)
 
 ## Lake Morphometry
 
@@ -155,7 +155,7 @@ Fetch from a specified bearing      |
 <img src="assets/img/function.jpg" style="margin:auto; width:100%;" />
 
 
---- .segue bg:url(assets/img/DSC00195_80.jpg)
+--- .segue bg:url(assets/img/DSC00195_80_900-1200.jpg)
 
 ## Thanks and Questions
 
