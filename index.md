@@ -168,7 +168,7 @@ Fetch from a specified bearing      |
 
 ## Thanks and Questions
 
-<span style="color:white;font-size:60%;position:absolute;bottom:0px;left:10px;">Photo Credit: URI Watershed Watch</span>
+<span style="color:white;font-size:60%;position:absolute;bottom:0px;left:10px;">Photo Credit: Elizabeth Herron, URI Watershed Watch</span>
 
 
 
