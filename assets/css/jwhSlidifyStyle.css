@@ -33,7 +33,6 @@ slides > slide.backdrop {
 /*Slide Title*/
 slide:not(.segue) h2 {
   color: #559B6A;
-
 }
 
 /*Slide Numbering */
@@ -76,7 +75,8 @@ table tr > td:first-child {
 
 /* Font Color for .segue */
 .segue h2 {
-  color: #559B6A;
+  /*color: #559B6A;*/
+  color: white;
 }
 
 /* segue positioning */
@@ -86,11 +86,35 @@ table tr > td:first-child {
   left: 500px;
 }
 
-/* set default sizing on images */
-img {
-    max-height: 560px;
-    max-width: 964px;
+/*blockquote style*/
+
+blockquote {
+  background: #b6b8ba;
+  border-left: solid thick #4a5b63; 
+  padding: 15px 25px 1px 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
 }
+
+/* forces seqgue images to fill */
+
+.segue {
+  background-size: cover !important;
+}
+
+/* set default sizing on images */
+/* can override within html in markdown*/
+/*img:not(.flexbox.vcenter) {
+    max-height: 600px;
+    max-width: 1000px;
+    margin-top:-50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}*/
+
+
 
 
 
