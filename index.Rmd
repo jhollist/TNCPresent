@@ -72,7 +72,7 @@ Fetch from a specified bearing      |
 
 --- .segue bg:url(assets/img/Pooecetes_gramineus_-USA-8_small_80.jpg)
 
-<span style="color:white;font-size:60%;position:absolute;bottom:0px;left:10px;"><a href="http://www.flickr.com/photos/59323989@N00">Photo Credit: Seabamirum</a></span>
+<span style="color:white;font-size:60%;position:absolute;bottom:0px;left:10px;">Photo Credit:<a style:"color:white;" href="http://www.flickr.com/photos/59323989@N00"> Seabamirum</a></span>
 
 ## Extending USGS SPARROW
 
