@@ -68,6 +68,39 @@ Fetch from a specified bearing      |
 
 <img src="assets/img/journal.pone.0025764.g002.png" style="height: 600px;margin-left:290px;margin-top:-50px;"/>
 
+--- &twocol w1:48%% w2:48%
+
+## Validation, Correction and Assessment
+
+***=left
+
+Source    |HUC        |Mean Corr  |Mean RMSE (m)  |
+----------|-----------|-----------|---------------|
+NLA 2007  | 01        |0.82       |5.95           |
+NLA 2007  | 02        |0.69       |5.02           |
+Web       | 01 & 02   |0  .72     |7.0            |
+
+
+***=right
+
+<img src="http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0025764.g003&representation=PNG_L" style="width:100%;">
+
+--- &twocol w1:48%% w2:48%
+
+## Validation, Correction and Assessment
+
+***=left
+
+Source    |HUC        |Mean Corr  |Mean RMSE (m)  |
+----------|-----------|-----------|---------------|
+NLA 2007  | 01        |0.82       |5.95           |
+NLA 2007  | 02        |0.69       |5.02           |
+Web       | 01 & 02   |0  .72     |7.0            |
+
+
+***=right
+
+<img src="assets/img/Figure4.jpg" style="width:100%;">
 
 --- .segue bg:url(assets/img/Pooecetes_gramineus_-USA-8_small_80.jpg)
 
